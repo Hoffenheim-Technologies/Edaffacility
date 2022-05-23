@@ -1,0 +1,16 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.polaroid-card {
+    display: inline-block;
+    background-color: #eee6d8;
+    padding: 10px;
+}
+.polaroid-card-caption {
+    text-align: center;
+    font-family: "Macondo", cursive;
+    font-size: 16px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
